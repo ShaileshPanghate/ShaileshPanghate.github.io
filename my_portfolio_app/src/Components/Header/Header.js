@@ -32,7 +32,7 @@ function Header() {
 
   return (
     <Navbar
-     
+       id="nav-menu"
       fixed="top"
       expand="md"
       className={navColour ? "sticky" : "navbar"}
@@ -48,13 +48,14 @@ function Header() {
 
         <Navbar.Collapse id="responsive-navbar-nav">
 
-          <Nav className="ml-auto" defaultActiveKey="#home">
+          <Nav className="ml-auto" defaultActiveKey="#home" id='nav-menu'>
 
           <Nav.Item className="fork-btn">
-          <Link to="home">
+          <Link to="home" classNmae='nav-link.home'>
           <Button onClick={()=>{rel(x)}}
                 target="_blank"
                 className="fork-btn-inner"
+                
               >
                 Home
           </Button>
