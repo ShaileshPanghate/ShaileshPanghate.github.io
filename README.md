@@ -1,6 +1,4 @@
 
-
-
 <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" /> 
 
 <h1 align="center">Hi 👋, I'm Shailesh Panghate</h1>
@@ -15,11 +13,11 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/ShaileshPanghate](https://github.com/ShaileshPanghate)
 
-- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
+- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | Next.js | Tailwind CSS | MongoDB | HTML | CSS | JavaScript | Java **
 
 - 📫 How to reach me **shaileshpanghate2986@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing](https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HysxMVy95QwxRuCN2fyy3bEbkUhZWo9q/view?usp=sharing](https://drive.google.com/file/d/1HysxMVy95QwxRuCN2fyy3bEbkUhZWo9q/view?usp=sharing)
 </div>
 
 </div>
