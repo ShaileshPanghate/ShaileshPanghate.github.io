@@ -13,11 +13,11 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/ShaileshPanghate](https://github.com/ShaileshPanghate)
 
-- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
+- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | Next.js | Tailwind CSS | MongoDB | HTML | CSS | JavaScript | Java **
 
 - 📫 How to reach me **shaileshpanghate2986@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing](https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HysxMVy95QwxRuCN2fyy3bEbkUhZWo9q/view?usp=sharing](https://drive.google.com/file/d/1HysxMVy95QwxRuCN2fyy3bEbkUhZWo9q/view?usp=sharing)
 </div>
 
 </div>
